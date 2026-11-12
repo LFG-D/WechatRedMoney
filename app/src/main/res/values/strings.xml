@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">钱来</string>
+    <string name="service_label">钱来</string>
+    <string name="accessibility_description">自动识别并领取微信红包。本服务仅读取微信界面内容，不会收集或上传任何数据。</string>
+
+    <string name="status_title">服务状态</string>
+    <string name="status_on">无障碍服务已开启</string>
+    <string name="status_off">无障碍服务未开启</string>
+    <string name="status_paused">服务已开启，但抢红包已暂停</string>
+    <string name="btn_open_settings">去开启</string>
+    <string name="btn_open_wechat">打开微信</string>
+
+    <string name="stats_title">战绩统计</string>
+    <string name="stats_count">已抢红包</string>
+    <string name="stats_amount">累计金额(元)</string>
+    <string name="stats_today">今日</string>
+    <string name="btn_reset">清空</string>
+
+    <string name="settings_title">功能设置</string>
+    <string name="set_enabled">启用抢红包</string>
+    <string name="set_notification">监听通知栏红包</string>
+    <string name="set_chat_list">监听会话列表红包</string>
+    <string name="set_self">抢自己发的红包</string>
+    <string name="set_vibrate">抢到后震动提醒</string>
+    <string name="set_float">显示悬浮状态球</string>
+    <string name="set_wake">锁屏时点亮屏幕</string>
+    <string name="set_delay">拆红包延迟：%1$d 毫秒</string>
+    <string name="set_after">领取后操作</string>
+    <string name="after_stay">停留</string>
+    <string name="after_back">返回</string>
+    <string name="after_home">回桌面</string>
+    <string name="set_exclude">屏蔽关键词（逗号分隔，红包祝福语包含即不抢）</string>
+    <string name="set_exclude_hint">例如：测试,专属,别抢</string>
+
+    <string name="guide_title">开启指引</string>
+    <string name="disclaimer">本应用仅供学习交流，请遵守微信使用规范，因使用产生的风险由使用者自行承担。</string>
+</resources>
